@@ -12,13 +12,13 @@ export default () => (
       <div className="cardInside">
         <h3 className="back">HAPPY BIRTHDAY BABA!</h3>
         <p>
-          Happy 41st birthday!!! Thanks for being a good, fun dad and teaching us and doing things with us!
+          Happy 41st birthday! Thanks for being a good, fun dad and teaching us and doing things with us!
         </p>
         <img 
             src={require('./us.png')} 
             style={{
-                width:'120px',
-                height:'120px',
+                width:'110px',
+                height:'110px',
                 position: 'absolute',
                 left: '20%'
             }}
