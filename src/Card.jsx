@@ -12,7 +12,7 @@ export default () => (
       <div className="cardInside">
         <h3 className="back">HAPPY BIRTHDAY BABA!</h3>
         <p>
-          Happy birthday!!! Sorry we couldnt do anything but happy birthday!
+          Happy 41st birthday!!! Thanks for being a good and fun dad and being with us when we need you!
         </p>
         <img 
             src={require('./us.png')} 
